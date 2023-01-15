@@ -5,7 +5,7 @@ API used - https://jsonplaceholder.typicode.com/
 This project has 6 functionalities(Home, Contact, Add Blog, List, Users and Search)
 
 Home(It contains few blog posts with image and title, which is link to blog post complete description and comments for each post
-(per post 3 comments with name, email and comment of commwntor is shown.))// restricted posts to 10 with logic
+(per post 3 comments with name, email and comment of commentor is shown.))// restricted posts to 10 with logic
 
 Contact(simple contact page)
 
