@@ -9,7 +9,7 @@ Home(It contains few blog posts with image and title, which is link to blog post
 
 Contact(simple contact page)
 
-Add Blog (In this you can add a blog to API and we can see that in console.)
+Add Blog (In this you can add a blog to API and you can see that in console.)
 
 List( In this you can see all the authors and his posts)
 
